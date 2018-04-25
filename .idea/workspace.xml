@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a7f5c9a-f4e9-4e64-9102-2c912f6f30c0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/fileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/fileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hpe/nfvd/fulfillment/EncryptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hpe/nfvd/fulfillment/EncryptionTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a7f5c9a-f4e9-4e64-9102-2c912f6f30c0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +10,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="EncryptionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hpe/nfvd/fulfillment/EncryptionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fileUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/fileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="114" column="79" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="79" />
+              <folding>
+                <element signature="method#isCustomerKey#0;class#fileUtils#0" />
+                <element signature="method#getKeyType#0;class#fileUtils#0" />
+                <element signature="method#getNFVD_PATCHER_KEY_FILE_Path#0;class#fileUtils#0" />
+                <element signature="method#getNFVD_PATCHER_KEY_FILE_Path#1;class#fileUtils#0" />
+                <element signature="method#rsaSplitCodec#0;class#fileUtils#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EncryptionUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/EncryptionUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="121" column="9" lean-forward="true" selection-start-line="107" selection-start-column="4" selection-end-line="121" selection-end-column="9" />
+              <folding>
+                <element signature="method#derDecrypt#0;class#EncryptionUtils#0" />
+                <element signature="method#encrypt#1;class#EncryptionUtils#0" />
+                <element signature="method#decrypt#1;class#EncryptionUtils#0" />
+                <element signature="method#getPrivateKey#0;class#EncryptionUtils#0" />
+                <element signature="method#getPrivateKey#1;class#EncryptionUtils#0" />
+                <element signature="method#getDerPublicKey#0;class#EncryptionUtils#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="general_keyFile" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/EncryptionUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hpe/nfvd/fulfillment/EncryptionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/fileUtils.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -42,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -49,13 +105,75 @@
               <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
               <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fulfillment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fulfillment" type="462c0819:PsiDirectoryNode" />
+              <item name="encryption" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encryption-utils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encryption-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fulfillment" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -64,6 +182,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gaizh\Desktop\soapUIProject\0417\encryption-utils\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,7 +200,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.maven">
+    <configuration name="EncryptionTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hpe.nfvd.fulfillment.EncryptionTest" />
+      <module name="encryption-utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hpe.nfvd.fulfillment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -96,6 +230,30 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="maven" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -119,6 +277,10 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.EncryptionTest" />
+      <item itemvalue="Maven.maven" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -132,36 +294,56 @@
       <updated>1523975609705</updated>
       <workItem from="1523975616267" duration="897000" />
       <workItem from="1524034626299" duration="351000" />
+      <workItem from="1524224152137" duration="1656000" />
+      <workItem from="1524477556003" duration="873000" />
+      <workItem from="1524566347517" duration="8616000" />
     </task>
+    <task id="LOCAL-00001" summary="update read  file">
+      <created>1524224321166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524224321166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update read  file">
+      <created>1524576384672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524576384672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1248000" />
+    <option name="totallyTimeSpent" value="12393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.1308305" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32992035" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32992035" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18771331" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26502147" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -175,6 +357,137 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update read  file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update read  file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hpe/nfvd/fulfillment/EncryptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/fileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding>
+            <element signature="method#isCustomerKey#0;class#fileUtils#0" />
+            <element signature="method#getKeyType#0;class#fileUtils#0" />
+            <element signature="method#getNFVD_PATCHER_KEY_FILE_Path#0;class#fileUtils#0" />
+            <element signature="method#getNFVD_PATCHER_KEY_FILE_Path#1;class#fileUtils#0" />
+            <element signature="method#rsaSplitCodec#0;class#fileUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/EncryptionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="105" column="4" lean-forward="true" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="4" />
+          <folding>
+            <element signature="method#derDecrypt#0;class#EncryptionUtils#0" />
+            <element signature="method#encrypt#1;class#EncryptionUtils#0" />
+            <element signature="method#decrypt#1;class#EncryptionUtils#0" />
+            <element signature="method#getPrivateKey#0;class#EncryptionUtils#0" />
+            <element signature="method#getPrivateKey#1;class#EncryptionUtils#0" />
+            <element signature="method#getDerPublicKey#0;class#EncryptionUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hpe/nfvd/fulfillment/EncryptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/fileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/EncryptionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java1.8/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="956" column="18" selection-start-line="956" selection-start-column="18" selection-end-line="956" selection-end-column="18" />
+          <folding>
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/private.key">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hpe/nfvd/fulfillment/EncryptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/fileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="114" column="79" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="79" />
+          <folding>
+            <element signature="method#isCustomerKey#0;class#fileUtils#0" />
+            <element signature="method#getKeyType#0;class#fileUtils#0" />
+            <element signature="method#getNFVD_PATCHER_KEY_FILE_Path#0;class#fileUtils#0" />
+            <element signature="method#getNFVD_PATCHER_KEY_FILE_Path#1;class#fileUtils#0" />
+            <element signature="method#rsaSplitCodec#0;class#fileUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hpe/nfvd/fulfillment/encryption/EncryptionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="121" column="9" lean-forward="true" selection-start-line="107" selection-start-column="4" selection-end-line="121" selection-end-column="9" />
+          <folding>
+            <element signature="method#derDecrypt#0;class#EncryptionUtils#0" />
+            <element signature="method#encrypt#1;class#EncryptionUtils#0" />
+            <element signature="method#decrypt#1;class#EncryptionUtils#0" />
+            <element signature="method#getPrivateKey#0;class#EncryptionUtils#0" />
+            <element signature="method#getPrivateKey#1;class#EncryptionUtils#0" />
+            <element signature="method#getDerPublicKey#0;class#EncryptionUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
